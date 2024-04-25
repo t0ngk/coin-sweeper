@@ -1,5 +1,5 @@
 
-<div class=" bg-[url('bgst.png')] overflow-hidden bg-no-repeat bg-cover bg-center w-screen h-screen flex flex-col justify-center items-center  *">
+<div class=" bg-[url('/bgst.png')] overflow-hidden bg-no-repeat bg-cover bg-center w-screen h-screen flex flex-col justify-center items-center  *">
   <div class="title text-[140px] bg-[#BAAD9C] mb-20 px-[50px]  rounded-[20px]">
       <h1 class="font-jersey bg-transparent bg-gradient-to-r from-[#AB2830] to-[#38040E] text-transparent bg-clip-text"> COIN SWEEPER </h1>
   </div>
